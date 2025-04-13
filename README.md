@@ -1,4 +1,4 @@
 # Amazon-Clone
-this is my first froject on web-Development
+this is my first project on Web-Development
 <br>
-it is purely html and css based project
+it is purely based on HTML and CSS
